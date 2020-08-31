@@ -35,8 +35,8 @@ train:
     md5: ad8e71b2cca4334a7d3bb6495645068c
   params:
     params.yaml:
-      train.n_estimators: 50
+      train.n_estimators: 100
       train.seed: 20170428
   outs:
   - path: model.pkl
-    md5: e393c2ed7a26eeab2360be08d6fc76e8
+    md5: d76019c79e98661b9a05674e0cd173ea
