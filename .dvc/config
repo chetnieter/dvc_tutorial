@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = ssh://krsdata2/data/cv-data01/fouo/data_working/diy-ai/dvc-caches/dvc_tutorial
